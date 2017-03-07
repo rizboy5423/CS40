@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=q\ b\ c\ d\ e
+comment0.target=void\ lab1(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=q\ b\ c
+comment1.target=void\ lab2(boolean,\ boolean,\ boolean)
+comment2.params=
+comment2.target=void\ lab3()
+comment3.params=a\ b\ c\ d
+comment3.target=void\ lab4(double,\ double,\ double,\ double)
+comment4.params=
+comment4.target=void\ lab5()
+comment5.params=
+comment5.target=void\ lab6()
+numComments=6
